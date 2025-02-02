@@ -7,3 +7,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marythore&theme=solarized-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marythore&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
