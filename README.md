@@ -1,7 +1,7 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8A2BE2&text=Input%20text"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=9B30FF&text=Input%20text"/>
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
