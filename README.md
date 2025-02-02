@@ -28,5 +28,5 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-[<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Marythore&section=footer&reversal=true&textBg=false&animation=fadeIn">]
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8A2BE2&text=Marythore&section=footer&reversal=false&textBg=false&animation=fadeIn">]
 </p>
