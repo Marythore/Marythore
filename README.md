@@ -34,5 +34,5 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-[<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=8A2BE2&text=Marythore&section=footer&reversal=false&textBg=false&animation=fadeIn">]
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3B82F6&text=Marythore&section=footer&reversal=false&textBg=false&animation=fadeIn" alt="Marythore" title="Marythore"/>
 </p>
