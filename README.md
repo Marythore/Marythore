@@ -23,7 +23,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/Marythore"><img src="https://img.shields.io/badge/GitHub-Marythore-blue?logo=github" /></a>
+<a href="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF00FF&text=Marythore&section=footer&reversal=false&textBg=false&animation=fadeIn" /></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
