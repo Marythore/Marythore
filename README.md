@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Marythore&theme=solarized-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
-[![tokyo-night](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![arctic](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
