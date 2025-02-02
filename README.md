@@ -8,4 +8,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marythore&theme=tokyo-night	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Marythore&theme=github-compact&hide_border=true&area=true" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimeMarythore=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
