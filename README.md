@@ -1,1 +1,2 @@
-
+-   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [hyprland](https://https://hyprland.org//) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [Firefox](https://www.mozilla.org/firefox/) / 
