@@ -4,4 +4,6 @@
 </picture>
 
 -   :pencil2: Java / C++ / JavaScript / Vue / Python / Go
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [Firefox](https://www.mozilla.org/firefox/) 
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [Firefox](https://www.mozilla.org/firefox/)
+
+  ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marythore)
