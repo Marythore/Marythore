@@ -4,5 +4,4 @@
 </picture>
 
 -   :pencil2: Java / C++ / JavaScript / Vue / Python / Go
--   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
-
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [Firefox](https://www.mozilla.org/firefox/) 
